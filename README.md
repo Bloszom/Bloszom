@@ -3,7 +3,7 @@
 - 👀 I Love to code with .py 😄
 - 🌱 I’m currently learning about Cybersecurity 🔐 
 - 📫 Email: @bloszomgianem@gmail.com
-- 📫 My Linkedin profile: [linked in](www.linkedin.com/in/blossom-giane-0628b9221) 
+- 📫 My Linkedin profile: [linkedIn](www.linkedin.com/in/blossom-giane-0628b9221) 
 
   Tech Stack: Python(Django,Flask), Javascript(React,Nodejs)
  
