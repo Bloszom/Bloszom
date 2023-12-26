@@ -1,5 +1,5 @@
 # 👋 Hi there 
-## My name is Blossom Giane, I am a Fullstack developer
+## My name is Blossom Giane, I am a Fullstack developer 💻😄
 - 👀 I Love to code with .py 😄
 - 🌱 I’m currently learning about Cybersecurity 🔐 
 - 📫 Email: @bloszomgianem@gmail.com
