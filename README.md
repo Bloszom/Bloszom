@@ -5,7 +5,7 @@
 - 📫 Email: bloszomgianem@gmail.com
 - 📫 My Linkedin profile: [linkedIn](www.linkedin.com/in/blossom-giane-0628b9221) 
 
-  Tech Stack: Python(Django,Flask), Javascript(React,Nodejs)
+  Tech Stack: .Net/C#/Xamarin, Python(Django,Flask), Javascript(React,Nodejs)
  
 
 <!---
