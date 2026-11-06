@@ -1,11 +1,11 @@
 # 👋 Hi there 
-## My name is Blossom Giane, I'm a Fullstack developer 💻😄
+## My name is Blossom Giane, I'm Cyber Security Specialist 🎭 and Fullstack Developer 💻
 - 👀 I Love to code with .py $ .Js $ .cs 😄
-- 🌱 I’m currently learning about Cybersecurity 🔐 
+- 🌱 Cybersecurity 🔐 
 - 📫 Email: bloszomgianem@gmail.com
-- 📫 My Linkedin profile: [linkedIn](www.linkedin.com/in/blossom-giane-0628b9221) 
+- 📫 My Linkedin profile: [linkedIn](www.linkedin.com/in/blossom-giane-8ba00240b) 
 
-  Tech Stack: .Net/C#/Xamarin, Python(Django,Flask), Javascript(React,Nodejs)
+  Tech Stack: .Net/C#/Xamarin, Python(Django,Flask), Javascript(React,Nodejs,Svelte,NextJs)
  
 
 <!---
