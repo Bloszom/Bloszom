@@ -1,5 +1,5 @@
 # 👋 Hi there 
-## My name is Blossom Giane, I'm Cyber Security Specialist 🎭 and Fullstack Developer 💻
+## My name is Blossom Giane, I'm a Cyber Security Specialist 🎭 and a Fullstack Developer 💻
 - 👀 I Love to code with .py $ .Js $ .cs 😄
 - 🌱 Cybersecurity 🔐 
 - 📫 Email: bloszomgianem@gmail.com
