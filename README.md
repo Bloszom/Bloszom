@@ -3,14 +3,9 @@
 - 🌱 Cybersecurity 🔐 
 - 👀 I Love to code with .py $ .Js $ .cs 
 - Tech Stack: .Net/C#/Xamarin, Python(Django,Flask), Javascript(React,Nodejs,Svelte,NextJs)
-  
+
+🌐 [Portfolio](https://blossomgiane.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/blossom-giane-8ba00240b)
 
 🐦 [X (Twitter)](https://x.com/BlossomGiane)
-
-🌐 [Website](https://blossomgiane.com)
-
-<!---
-Bloszom/Bloszom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
