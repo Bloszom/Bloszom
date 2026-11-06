@@ -1,6 +1,6 @@
 # 👋 Hi there 
 ## My name is Blossom Giane, I'm a Cyber Security Specialist 🎭 and a Fullstack Developer 💻
-- 👀 I Love to code with .py $ .Js $ .cs 😄
+- 👀 I Love to code with .py $ .Js $ .cs 
 - 🌱 Cybersecurity 🔐 
 - 📫 Email: bloszomgianem@gmail.com
 - 📫 My Linkedin profile: [linkedIn](www.linkedin.com/in/blossom-giane-8ba00240b) 
